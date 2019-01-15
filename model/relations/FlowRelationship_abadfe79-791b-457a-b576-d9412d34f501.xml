@@ -1,11 +1,11 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="copy &amp; paste"
-    id="5c9106ad-2e5b-43ad-a049-b5c781c09e98">
+    name="Kopieer plugin"
+    id="abadfe79-791b-457a-b576-d9412d34f501">
   <source
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_79eaa594-0b22-48d4-bacf-3d51ad0d70b2.xml#79eaa594-0b22-48d4-bacf-3d51ad0d70b2"/>
+      href="ApplicationComponent_e3de8972-350d-42f7-bf80-3880c9a5110f.xml#e3de8972-350d-42f7-bf80-3880c9a5110f"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_466d17e4-cbe0-4826-8997-6b11f910d80f.xml#466d17e4-cbe0-4826-8997-6b11f910d80f"/>

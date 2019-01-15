@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Import"
+    id="7f86f4f6-d6dd-4f89-bd8e-522c64568a6b">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_e3de8972-350d-42f7-bf80-3880c9a5110f.xml#e3de8972-350d-42f7-bf80-3880c9a5110f"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_0ad58f6e-8ffc-40d3-a227-6d0c7246d649.xml#0ad58f6e-8ffc-40d3-a227-6d0c7246d649"/>
+</archimate:FlowRelationship>

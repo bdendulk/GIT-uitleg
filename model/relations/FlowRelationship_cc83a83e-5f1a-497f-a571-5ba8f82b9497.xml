@@ -1,12 +1,11 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="copy &amp; paste"
-    id="5c9106ad-2e5b-43ad-a049-b5c781c09e98">
+    id="cc83a83e-5f1a-497f-a571-5ba8f82b9497">
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_79eaa594-0b22-48d4-bacf-3d51ad0d70b2.xml#79eaa594-0b22-48d4-bacf-3d51ad0d70b2"/>
   <target
-      xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_466d17e4-cbe0-4826-8997-6b11f910d80f.xml#466d17e4-cbe0-4826-8997-6b11f910d80f"/>
+      xsi:type="archimate:Grouping"
+      href="Grouping_abeef4c0-b124-4cb2-bf3e-85b6cf081c11.xml#abeef4c0-b124-4cb2-bf3e-85b6cf081c11"/>
 </archimate:FlowRelationship>
