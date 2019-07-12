@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="0. Toevoegen plugin"
+    name="0. Toevoegen plugin (via explorer)"
     id="0606f6f6-f227-4cc6-950c-08c4f10b450f">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
