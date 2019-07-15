@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Refresh"
+    id="4dfef66a-1a24-466d-91dc-a3a3fdfdea65">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_79eaa594-0b22-48d4-bacf-3d51ad0d70b2.xml#79eaa594-0b22-48d4-bacf-3d51ad0d70b2"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_32f42771-22eb-4893-b97d-682a41e48d79.xml#32f42771-22eb-4893-b97d-682a41e48d79"/>
+</archimate:FlowRelationship>
